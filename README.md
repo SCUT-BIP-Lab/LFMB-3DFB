@@ -30,7 +30,7 @@ For subsequent studies to compare recognition algorithms in the same setting, pl
 ## Request
 The __SCUT LFMB-3DFB Dataset__ is publicly available(free of charge) to the research community. Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.
 
-We have made part of the dataset available for download in the repo in order to get a detailed view of this data. Those interested in obtaining the whole __SCUT LFMB-3DFB Dataset__ should download [release agreement](https://github.com/SCUT-BIP-Lab/SCUT-LFMB-3DPVFV/blob/main/SCUT%20LFMB-3DPVFV%20Database%20Release%20Agreement.docx), and send by e-mail one signed and scanned copy to scutbip@outlook.com.
+We have made part of the dataset available for download in the repo in order to get a detailed view of this data. Those interested in obtaining the whole __SCUT LFMB-3DFB Dataset__ should download [release agreement](https://github.com/SCUT-BIP-Lab/LFMB-3DFB/blob/main/SCUT%20LFMB-3DFB%20Database%20Release%20Agreement.docx), and send by e-mail one signed and scanned copy to scutbip@outlook.com.
 
 
 While reporting results using the __SCUT LFMB-3DFB Dataset__, please cite the following article:    
