@@ -1,6 +1,6 @@
 # SCUT LFMB-3DFB Dataset
 This repository is the Large-scale Finger Multi-Biometric database and benchmark for 3D Finger Biometrics (LFMB-3DFB) from paper:   
-__LFMB-3DFB: A Large-scale Finger Multi-Biometric Database and Benchmark for 3D Finger Biometrics. 2021 IJCB Best Paper Award__  
+__LFMB-3DFB: A Large-scale Finger Multi-Biometric Database and Benchmark for 3D Finger Biometrics.   2021 IJCB Best Paper Award__  
 By Weili Yang, Zhuoming Chen, Junduan Huang, Linfeng Wang and WenXiong Kang  
 
 
@@ -11,21 +11,20 @@ Fingers contain various discriminative biometric traits, such as fingerprint, fi
 
 ## SCUT LFMB-3DFB Dataset
 **the Large-scale Finger Multi-Biometric database and benchmark for 3D Finger Biometrics (LFMB-3DFB)**
-For subsequent studies to compare recognition algorithms in the same setting, please strictly follow the evaluation protocols in the benchmark (see Section BENCHMARK EVALUATION in the paper for details), Here we provide the record files for the division of the training set, validation set, and testing set, as well as the inter- and intra-class pairs files for the validation and testing sets.
+For subsequent studies to compare recognition algorithms in the same setting, please strictly follow the evaluation protocols in the benchmark (see __Section BENCHMARK EVALUATION__ in the paper for details), Here we provide the record files for the division of the training set, validation set, and testing set, as well as the inter- and intra-class pairs files for the validation and testing sets.
 
 
---__dataset_partition_csv/training_set.csv__: the finger data in training set.
---__dataset_partition_csv/validation_set_inter-&intar-class pairs.csv__: the inter-&intar-class pairs in validation set, and the finger data in validation set are also these names in this file.
---__dataset_partition_csv/testing_set_inter-&intar-class pairs.csv__: the inter-&intar-class pairs in testing set, and the finger data in testing set are also these names in this file.
-
+--__dataset_partition_csv/training_set.csv__: the finger data in training set.  
+--__dataset_partition_csv/validation_set_inter-&intar-class pairs.csv__: the inter-&intar-class pairs in validation set, and the finger data in validation set are also these names in this file.  
+--__dataset_partition_csv/testing_set_inter-&intar-class pairs.csv__: the inter-&intar-class pairs in testing set, and the finger data in testing set are also these names in this file.  
 --__datasamples__: data samples provided to understand this dataset in detail.  
---__datasamples/LFMB-3DFB_Pictures_Seged_Rectified__: each capture get 6 raw images by the 6 different views of the imaging system, and we rectified and segmented the finger.   
---__datasamples/Deformed_Meshes_cylinder382_textured__: reconstructed 3D holographic finger models with textures with 382 vertices.  
---__datasamples/Deformed_Meshes_cylinder662_textured__: reconstructed 3D holographic finger models with textures with 662 vertices. 
---__datasamples/Deformed_Meshes_cylinder1022_textured__: reconstructed 3D holographic finger models with textures with 1022 vertices. 
---__datasamples/Deformed_Meshes_cylinder2602_textured__: reconstructed 3D holographic finger models with textures with 2602 vertices. 
---__datasamples/Deformed_Meshes_cylinder5543_textured__: reconstructed 3D holographic finger models with textures with 5543 vertices. 
---__datasamples/Deformed_Meshes_cylinder10064_textured__: reconstructed 3D holographic finger models with textures with 10064 vertices. 
+--__datasamples/LFMB-3DFB_Pictures_Seged_Rectified__: each capture get 6 raw images by the 6 different views of the imaging system, and we rectified and segmented the finger.     
+--__datasamples/Deformed_Meshes_cylinder382_textured__: reconstructed 3D holographic finger models with textures with 382 vertices.    
+--__datasamples/Deformed_Meshes_cylinder662_textured__: reconstructed 3D holographic finger models with textures with 662 vertices.   
+--__datasamples/Deformed_Meshes_cylinder1022_textured__: reconstructed 3D holographic finger models with textures with 1022 vertices.   
+--__datasamples/Deformed_Meshes_cylinder2602_textured__: reconstructed 3D holographic finger models with textures with 2602 vertices.   
+--__datasamples/Deformed_Meshes_cylinder5543_textured__: reconstructed 3D holographic finger models with textures with 5543 vertices.   
+--__datasamples/Deformed_Meshes_cylinder10064_textured__: reconstructed 3D holographic finger models with textures with 10064 vertices.   
 
 ## Request
 The __SCUT LFMB-3DFB Dataset__ is publicly available(free of charge) to the research community. Unfortunately, due to privacy reasons, we cannot provide the database for commercial use.
